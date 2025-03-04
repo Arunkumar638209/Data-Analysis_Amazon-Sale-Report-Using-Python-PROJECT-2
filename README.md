@@ -12,16 +12,14 @@ To run this project, install the necessary dependencies:
 pip install pandas numpy matplotlib seaborn
 
 # Usage
-1.Clone the repository:
-git clone https://github.com/your-username/amazon-sale-report.git
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 cd amazon-sale-report
 
-3.Open the Jupyter Notebook:
+2.Open the Jupyter Notebook:
 jupyter notebook "Amazon Sale Report project.ipynb"
 
-4.Run the notebook cells to execute the analysis.
+3.Run the notebook cells to execute the analysis.
 
 # Data
 The dataset used in this project consists of Amazon sales records. Ensure the dataset is available in the project directory before running the notebook.
